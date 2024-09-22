@@ -15,5 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Project
+## Project
 1. VR
+
+## 공부
+1. 알고리즘
+2. 디자인패턴
+3. CS
+
+## Game Engine
+unity / Unreal
+
+## 언어
+C# / C++ / Python
+
+# notion
