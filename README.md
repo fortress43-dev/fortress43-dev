@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 ## Project
 1. VR
 
-## 공부
-1. 알고리즘
-2. 디자인패턴
-3. CS
+## Study
+- Algorithm
+- Design Pattern
+- Computer Science
 
 ## Game Engine
-unity / Unreal
+Unity / Unreal
 
 ## 언어
 C# / C++ / Python
 
-# notion
+# Notion
