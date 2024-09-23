@@ -41,3 +41,23 @@ Here are some ideas to get you started:
 
 ## VFX
 - Maya / Blender / Vray / SubstancePainter / Mari
+
+<!--
+# Project
+## main
+| Title | Period | Platform | Engine | Description | Demo |
+|-------|--------|----------|--------|-------------|-----|
+|Emotion|2022|PC|Unity|
+|SculptVR|2022|PC|Unity|
+|Life|2023|PC|Unreal|
+|QuantumBreak|2023|PC|Unreal|
+
+## sub
+
+# Award
+|Name|Award|team|
+|-|-|-|
+| 2022 Metaverse Academy |Grand Prize|Next|
+| 2023 Metaverse Academy |Grand Prize|PostPoduction|
+-->
+
